@@ -1,5 +1,5 @@
 <h1>Joel Erni</h1>
-<p>Männlich, 15 Jahre, Single. Zurzeit besuche ich die Informatikmittelschule</p>
+<p>Männlich, 16 Jahre, Single. Zurzeit besuche ich die Informatikmittelschule</p>
 <h2>Programmiersprachen:</h2>
 <ul>
   <li>c#</li>
