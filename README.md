@@ -21,4 +21,3 @@
     <li>(Java)</li>
  </ul>
 </div>
-<img src="https://c.tenor.com/1y8zDc-ll-EAAAAd/3d-saul-saul-goodman.gif">
