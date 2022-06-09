@@ -1,4 +1,5 @@
 <h1>Joel Erni</h1>
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 <p>Männlich, 16 Jahre, Single. Zurzeit besuche ich die Informatikmittelschule</p>
 <div>
   <h2>Aktuelle Projekte</h2>
@@ -11,7 +12,7 @@
 <div>
   <h2>Programmiersprachen:</h2>
   <ul>
-    <li>C# ![C#](https://www.gravatar.com/avatar/1e036860583a98d1826052230afd931c?s=64&d=identicon&r=PG)</li>
+    <li>C#</li>
     <li>Powershell</li>
     <li>HTML</li>
     <li>CSS</li>
