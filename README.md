@@ -1,5 +1,4 @@
 <h1>Joel Erni</h1>
-<img width="20px" src="/cdnlogo.com_c-sharp.png">
 <p>Männlich, 16 Jahre, Single. Zurzeit besuche ich die Informatikmittelschule</p>
 <div>
   <h2>Aktuelle Projekte</h2>
@@ -12,7 +11,7 @@
 <div>
   <h2>Programmiersprachen:</h2>
   <ul>
-    <li>C#</li>
+    <li>C#<img width="30px" src="/cdnlogo.com_c-sharp.png"></li>
     <li>Powershell</li>
     <li>HTML</li>
     <li>CSS</li>
