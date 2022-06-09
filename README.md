@@ -11,7 +11,7 @@
 <div>
   <h2>Programmiersprachen:</h2>
   <ul>
-    <li>C#<img width="30px" src="/cdnlogo.com_c-sharp.png"></li>
+    <li>C#<img width="20px" src="/cdnlogo.com_c-sharp.png"></li>
     <li>Powershell</li>
     <li>HTML</li>
     <li>CSS</li>
