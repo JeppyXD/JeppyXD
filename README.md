@@ -11,7 +11,7 @@
 <div>
   <h2>Programmiersprachen:</h2>
   <ul>
-    <li>C# ![C#]([http://url/to/img.png](https://www.gravatar.com/avatar/1e036860583a98d1826052230afd931c?s=64&d=identicon&r=PG))</li>
+    <li>C# ![C#](https://www.gravatar.com/avatar/1e036860583a98d1826052230afd931c?s=64&d=identicon&r=PG)</li>
     <li>Powershell</li>
     <li>HTML</li>
     <li>CSS</li>
