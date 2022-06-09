@@ -1,4 +1,4 @@
-<h1 style="font-family:ComicSans">Joel Erni</h1>
+<h1 style="font-family:Comic Sans">Joel Erni</h1>
 <p>Männlich, 16 Jahre, Single. Zurzeit besuche ich die Informatikmittelschule</p>
 <div>
   <h2>Aktuelle Projekte</h2>
