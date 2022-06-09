@@ -1,10 +1,11 @@
 <h1 style="font-family:ComicSans">Joel Erni</h1>
 <p>Männlich, 16 Jahre, Single. Zurzeit besuche ich die Informatikmittelschule</p>
-<h2>Projekte</h2>
-<ul>
+<div>
+  <h2>Projekte</h2>
   <ul>
     <li><a href="https://github.com/JeppyXD/IPT3.1-Webseite">IPT-3.1 Webseite</a></li>
- </ul>
+  </ul>  
+<div>
 <h2>Programmiersprachen:</h2>
 <ul>
   <li>c#</li>
