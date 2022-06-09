@@ -1,5 +1,5 @@
 <h1>Joel Erni</h1>
-<img src="/cdnlogo.com_c-sharp.png">
+<img width="20px" src="/cdnlogo.com_c-sharp.png">
 <p>Männlich, 16 Jahre, Single. Zurzeit besuche ich die Informatikmittelschule</p>
 <div>
   <h2>Aktuelle Projekte</h2>
