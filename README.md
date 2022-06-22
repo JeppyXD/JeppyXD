@@ -1,7 +1,9 @@
+<div>
 <h1>Joel Erni</h1>
 <p>Männlich, 16 Jahre, Single. Zurzeit besuche ich die Informatikmittelschule</p>
   <h2>Programmiersprachen:</h2>
-  <ul>
+  <div>
+    <ul>
     <li>C#</li>
     <li>Powershell</li>
     <li>HTML</li>
@@ -11,6 +13,8 @@
     <li>(Python)</li>
     <li>(Java)</li>
  </ul>
+  </div>
+ </div>
 <div>
   <h2>Aktuelle Projekte</h2>
   <ul>
