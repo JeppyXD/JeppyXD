@@ -3,9 +3,15 @@
 <div>
   <h2>Aktuelle Projekte</h2>
   <ul>
-    <li><a href="https://github.com/JeppyXD/IPT3.1-Webseite">IPT-3.1 Webseite</a></li>
-    <li>IPT-2.1 Unity Spiel</li>
     <li><a href="https://github.com/JeppyXD/M122-Backup">M122 Powershell Backup-Skript</a></li>
+  </ul>  
+</div>
+<div>
+  <div>
+  <h2>Fertige Projekte</h2>
+  <ul>
+    <li><a href="https://github.com/JeppyXD/IPT3.1-Webseite">IPT-3.1 Webseite</a></li>
+    <li><a href="https://github.com/JeppyXD/IPT-2.1-Unity/tree/master">IPT-2.1 Unity Spiel</a></li>
   </ul>  
 </div>
 <div>
